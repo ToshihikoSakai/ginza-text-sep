@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import pandas as pd
 import spacy
 
 nlp = spacy.load('ja_ginza')
